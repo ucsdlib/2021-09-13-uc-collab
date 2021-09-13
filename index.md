@@ -90,6 +90,10 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+
+<!-- Place this where you want the widget to appear -->
+<tito-widget event="ucsd-carpentries/uc-carpentries-fall-workshop"></tito-widget>
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
